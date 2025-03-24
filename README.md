@@ -16,6 +16,7 @@ While my academic background is in social science, I see it as a unique advantag
 
 
 ============================================================================================================================
+
 ### 🛠 **Tools**
 
 💻 Programming & Development
