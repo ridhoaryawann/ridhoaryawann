@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rido
 ============================================================================================================================
 
-Data Analyst | Data Scientist
------------------------------
-
 ### About
+
+#### Data Analyst | Data Scientist 
 
 Hi, I'm Ridho! Although I hold a degree in social sciences from Universitas Gadjah Mada, my passion for data led me on a transformative journey into the world of data analytics, data science, and machine learning. To build the technical skills I needed, I completed an intensive Data Science & Machine Learning bootcamp at Purwadhika, where I strengthened my proficiency in Python, SQL, data visualization tools (Tableau & Power BI) also cloud platforms like GCP. 
 
