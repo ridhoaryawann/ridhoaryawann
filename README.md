@@ -14,7 +14,7 @@ While my academic background is in social science, I see it as a unique advantag
 * 🚀  I'm currently working as **Data Analyst** at Susi Air
 * 🧠  I'm currently learning **Data Engineering** at Purwadhika and **Deep Learning** on Udemy
 
----
+___
 
 ### 🛠 **Tools**
 
