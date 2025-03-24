@@ -15,6 +15,7 @@ While my academic background is in social science, I see it as a unique advantag
 * 🧠  I'm currently learning **Data Engineering** at Purwadhika and **Deep Learning** on Udemy
 
 
+============================================================================================================================
 ### 🛠 **Tools**
 
 💻 Programming & Development
