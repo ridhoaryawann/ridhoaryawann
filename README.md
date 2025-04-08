@@ -9,7 +9,7 @@ My professional experience includes **1+ years** as a Data Analyst, where I’ve
 
 While my academic background is in social science, I see it as a unique advantage—combining analytical thinking and human-centric perspectives with good technical capabilities. This blend allows me to approach data problems from both strategic and empathetic angles, making my profile (i believe) a rare but unique mix of skillsets.
 
-* 💻  See my key **code projects and notebooks** in **pinned**
+* 💻  Explore my **code projects and notebooks** in **repositories**
 * 🖥️  See my **dashboard portfolio** at [Dashboard Portfolio](https://www.datascienceportfol.io/ridhoaryawann)   
 * 🚀  I'm currently working as **Data Analyst** at Susi Air
 * 🧠  I'm currently learning **Data Engineering** at Purwadhika and **Deep Learning** on Udemy
