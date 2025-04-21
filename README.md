@@ -3,11 +3,11 @@
 
 ### About
 
-Hi, I'm Ridho! A 1+ year **data analyst**. Although I hold a degree in social sciences from Universitas Gadjah Mada, my passion for data led me on a transformative journey into the world of data analytics, data science, and machine learning. To build the technical skills I needed, I completed an intensive Data Science & Machine Learning bootcamp at Purwadhika, where I strengthened my proficiency in Python, SQL, data visualization tools (Tableau, Power BI, Looker Studio) also handling data in cloud platforms like GCP. 
+Hi, I'm Ridho! A 1+ year **data analyst**. To build the technical skills I needed, I completed an intensive Data Science & Machine Learning bootcamp at Purwadhika, where I strengthened my proficiency in Python, SQL, data visualization tools (Tableau, Power BI, Looker Studio) and also handling data in cloud platforms like GCP. 
 
 My professional experience includes **1+ years** as a Data Analyst, where I’ve contributed to projects involving pipeline automation, dashboard creadtion, and help business to take data-driven-desicison accross multiple teams, such as: operations, sales, marketing, and beyond. 
 
-While my academic background is in social science, I see it as a unique advantage—combining analytical thinking and human-centric perspectives with good technical capabilities. This blend allows me to approach data problems from both strategic and empathetic angles, making my profile (i consider) unique mix of skillsets.
+While my academic background is in social science from UGM, I see it as a unique advantage—combining analytical thinking and human-centric perspectives with good technical capabilities. This blend allows me to approach data problems from both strategic and empathetic angles, making my profile (i consider) unique mix of skillsets.
 
 * 💻  Explore my **code projects and notebooks** in **repositories**
 * 🖥️  See my **dashboard portfolio** at [Dashboard Portfolio](https://www.datascienceportfol.io/ridhoaryawann)   
